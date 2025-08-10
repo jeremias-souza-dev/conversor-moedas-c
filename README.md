@@ -41,3 +41,16 @@ Depois de criar sua conta em [https://app.exchangerate-api.com/](https://app.exc
 [https://app.exchangerate-api.com/dashboard/confirmed](https://app.exchangerate-api.com/dashboard/confirmed)
 
 Depois pegue sua chave e troque no código onde está `apiKey`.
+
+
+## Captura de Tela
+
+Veja uma captura de tela do aplicativo em funcionamento:
+
+![Captura de Tela](Captura%20de%20tela%202025-08-10%20184535.png)
+
+## Vídeo Demonstrativo
+
+Confira o vídeo abaixo para ver o Conversor de Moedas em ação:
+
+![Vídeo Demonstrativo](lv_0_20250810184607.mp4)
