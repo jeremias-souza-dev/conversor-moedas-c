@@ -48,9 +48,3 @@ Depois pegue sua chave e troque no código onde está `apiKey`.
 Veja uma captura de tela do aplicativo em funcionamento:
 
 ![Captura de Tela](Captura%20de%20tela%202025-08-10%20184535.png)
-
-## Vídeo Demonstrativo
-
-Confira o vídeo abaixo para ver o Conversor de Moedas em ação:
-
-![Vídeo Demonstrativo](lv_0_20250810184607.mp4)
